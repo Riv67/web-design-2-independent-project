@@ -1,5 +1,5 @@
 html {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #201f1e;
 }
 
@@ -10,7 +10,7 @@ html {
 
 h1,
 h2 {
-  font-family: 'Abril Fatface', cursive;
+  font-family: "Abril Fatface", cursive;
   color: #b0673d;
 }
 
@@ -25,7 +25,7 @@ h2 {
 }
 
 .btn:hover {
-  background-color: #EEE0D7;
+  background-color: #eee0d7;
   border-color: #b0673d;
   color: #b0673d;
 }
@@ -36,7 +36,7 @@ h2 {
 
 a {
   text-decoration: none;
-  color: #EEE0D7;
+  color: #eee0d7;
 }
 
 .footer {
@@ -72,12 +72,12 @@ a {
 }
 
 footer p {
-  font-family: 'Abril Fatface', cursive;
+  font-family: "Abril Fatface", cursive;
 }
 
 footer p,
 footer li {
-  color: #EEE0D7;
+  color: #eee0d7;
 }
 
 .speakers {
