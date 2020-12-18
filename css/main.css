@@ -52,11 +52,10 @@ a {
   color: #fff;
 }
 
-.item:hover,
-.pages:hover {
+.pages:hover,
+.pages:focus {
   color: #fff;
-  padding: .3rem;
-  background-color: #201f1e;
+  background-color: #000;
 }
 
 .skip-links a {
