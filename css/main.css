@@ -54,7 +54,9 @@ a {
 
 .item:hover,
 .pages:hover {
-  color: #201f1e;
+  color: #fff;
+  padding: .3rem;
+  background-color: #201f1e;
 }
 
 .skip-links a {
